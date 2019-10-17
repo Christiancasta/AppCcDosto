@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity
             SettingsFragment settingsFragment = new SettingsFragment();
             Functions.changeMainFragment(MainActivity.this, settingsFragment);
         }
-        // Find me!!
         return super.onOptionsItemSelected(item);
     }
 
