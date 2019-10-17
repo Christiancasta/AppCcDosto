@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCcDosto</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Castañon Software Universe</string>
+    <string name="nav_header_subtitle">e.c2.castanon@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_location">Ubicación</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Contacto</string>
+    <string name="menu_chat">Chat</string>
+
+    <string name="fragment_home">Home</string>
+    <string name="fragment_gallery">Galeria</string>
+    <string name="fragment_location">Ubicación</string>
+    <string name="fragment_about">Acerca de</string>
+    <string name="fragment_share">Compartir</string>
+    <string name="fragment_send">Contacto</string>
+    <string name="fragment_chat">Chat</string>
+    <string name="title_activity_location_fragment">Mapas</string>
+    <string name="fragment_settings">Ajustes</string>
+
+    <string name="send_support">Contacto y Soporte</string>
+    <string name="send_support2">Christian Arturo Castañon Herrera</string>
+    <string name="send_support3">Location: Aguascalientes, MX</string>
+    <string name="send_support4">MX: +52 449 412 76 44</string>
+    <string name="send_support5">Email: e.c2.castanon@gmail.com</string>
+
+    <string name="cv_description">I have the ambition to progress anf hopefully get better.</string>
+    <string name="title_activity_maps">Mapa</string>
+
+
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="course">Curso</string>
+    <string name="campus">Plantel</string>
+    <string name="comments">Comentarios</string>
+    <string name="rate">Evalua esta aplicación</string>
+    <string name="Communicate">Communicate</string>
+    <string name="check_conecction">¿Esta Conectado?</string>
+</resources>
